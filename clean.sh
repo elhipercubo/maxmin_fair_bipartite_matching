@@ -1,0 +1,1 @@
+rm *~ *.swp mf bk

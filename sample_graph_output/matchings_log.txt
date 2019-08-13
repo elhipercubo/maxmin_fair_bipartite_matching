@@ -1,0 +1,56 @@
+Decomposition file sample_output/decomp
+num_left = 11 num_right = 6 num_blocks = 3
+#3
+#3
+
+a = 6 b = 2 g = 2
+reading vertices of block 0...
+done!
+3
+found matching nr 1/3 (block 0/3: left = 6 right = 2 g = 2)!
+0.000005 seconds per matching
+since iteration: 0.000032 seconds
+since matching: 0.000030 seconds
+
+found matching nr 2/3 (block 0/3: left = 6 right = 2 g = 2)!
+0.000020 seconds per matching
+since iteration: 0.000003 seconds
+since matching: 0.000003 seconds
+
+found matching nr 3/3 (block 0/3: left = 6 right = 2 g = 2)!
+0.000014 seconds per matching
+since iteration: 0.000001 seconds
+since matching: 0.000002 seconds
+
+#2
+
+a = 4 b = 2 g = 2
+reading vertices of block 1...
+done!
+2
+found matching nr 1/2 (block 1/3: left = 4 right = 2 g = 2)!
+0.000001 seconds per matching
+since iteration: 0.000002 seconds
+since matching: 0.000002 seconds
+
+found matching nr 2/2 (block 1/3: left = 4 right = 2 g = 2)!
+0.000002 seconds per matching
+since iteration: 0.000001 seconds
+since matching: 0.000001 seconds
+
+#1
+
+a = 1 b = 1 g = 1
+reading vertices of block 2...
+done!
+1
+trivial block!
+
+output size = 11
+
+Reading: 0.000205745 seconds
+Matchings: 2.72e-07 seconds
+
+real	0m0.010s
+user	0m0.000s
+sys	0m0.004s
